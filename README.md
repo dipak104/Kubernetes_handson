@@ -1,7 +1,5 @@
 This repository contains details and code for deploying machine learning models on Google Kubernetes Engine Engine
 
-Details of the code and working is covered in detailed in my YouTube channel (AIEngineering) here - https://youtu.be/Hfgla4ViIwU
-
 Before getting started with deployment the container expects trained models and also downloaded nltk corpus
 
 For model files you are run associated notebook in this repository or else download the trained models and use it using below 2 command
